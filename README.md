@@ -9,7 +9,7 @@
 ### ir a la carpeta ./backend y ejecutar el siguiente comando:
 ### `mvn clean install -Dmaven.test.skip `
 ### `java -jar target/comsiontest-0.0.1-SNAPSHOT.jar`
-### Este último comando corre la aplicacion y la despiega gracias a Springboot y tomcat
+### Este último comando corre la aplicacion y la despiega gracias a Springboot y tomcat (!!!IMPORTANTE NO CERRAR LA CONSOLA!!!)
 
 ### Este componente situado en la carpeta ./backend contiene un proyecto basado en Spring boot de java (Java, Spring, SpringData, Servicios Rest) con 4 servicios Rest para las operaciones crud:
 
@@ -40,7 +40,7 @@
 
 ### Instalación
 
-### ir a la carpeta ./frontend y ejecutar el siguiente comando
+### En una nueva consola (Importante no cerrar la consola del backend) ir a la carpeta ./frontend y ejecutar el siguiente comando
 
 ### `npm install`
 ### `npm run start`
