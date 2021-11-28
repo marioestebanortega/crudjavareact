@@ -42,7 +42,7 @@
 
 ### En una nueva consola (Importante no cerrar la consola del backend) ir a la carpeta ./frontend y ejecutar el siguiente comando
 
-### `npm install`
+### `npm install`  Este comnado puede demorar un tiempo
 ### `npm run start`
 
 ### Una vez se ejecuten los comandos se puede ingresar a la aplicación en el siguiente link:
