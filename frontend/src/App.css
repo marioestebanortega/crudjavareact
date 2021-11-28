@@ -1,0 +1,74 @@
+.App{
+  background-color: white;
+  color: black;
+}
+.header{
+  display: flex;
+}
+
+.client{
+  display: block;
+}
+
+.buttonC{
+ 
+    border-style: none;
+    
+    font-size: larger;
+    height: 35px;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.buttonC:hover{
+ 
+  
+
+  background-color: green;
+  color: black;
+}
+
+
+.personas thead tr th{
+  border: solid 1px black;
+  color:darkslategray;
+  width: 10%;
+  text-align: center;
+  }
+  
+.personas tbody tr td{
+  border: solid 1px black;
+  width: 10%;
+  text-align: center;
+  }
+
+  .personas{
+    background-color: #87CEEB;
+    color:black
+  }
+  .personas thead{
+    background-color:#ADD8E6;
+  }
+
+.personasDetalle{
+  border-top: double 4px black;
+  margin-top:40px
+}
+.datosBasicos{
+  border: 1px solid black;
+}
+.fila{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  margin: 30px 30px 30px 30px;
+  
+}
+.fila label{
+  margin: 0 30px 0 30px;
+}
+.fila button{
+  margin: 0 30px 0 30px;
+}
+
